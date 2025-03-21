@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PaletteLayers:
   - {fileID: 8574412962073106934, guid: 1ded3ba1c5a90054e8f23ddfa62fb2b7, type: 2}
-  - {fileID: 8574412962073106934, guid: 2c9c15fa70f42d14c9d04819f3688ced, type: 2}
-  - {fileID: 8574412962073106934, guid: d1cf528a0cf45e641b80cab407f44809, type: 2}
-  - {fileID: 8574412962073106934, guid: fced1520f893ef34198336f4dc746ddc, type: 2}
+  - {fileID: 8574412962073106934, guid: d25c8def728088547ae6a1024dd9b481, type: 2}
+  - {fileID: 8574412962073106934, guid: 0cbb01b61ed524a48a119d81aa262fed, type: 2}
+  - {fileID: 8574412962073106934, guid: 130d104513b29bd44ae9c5b3915f4134, type: 2}
   - {fileID: 8574412962073106934, guid: 1fd606cb9f5174d49a969353e00564c7, type: 2}
   - {fileID: 8574412962073106934, guid: ab4bf459d0c272940b3585c5f39741dd, type: 2}
   - {fileID: 8574412962073106934, guid: c9a593df31956dc4f848f8b063154d09, type: 2}
